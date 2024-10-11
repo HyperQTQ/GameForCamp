@@ -1,6 +1,6 @@
 extends Sprite2D
 
-var speed = 75
+var speed = 65
 var velocity = Vector2()
 var hp = 3
 var blood_particles = preload("res://blood_particles.tscn")
